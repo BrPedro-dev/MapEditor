@@ -31,7 +31,14 @@ cd /out/artifacts/
 # run the jar 
 java -jar Paint_jar
 ```
+# How to paint 
+-Space to paint if the canvas is blank or if it's painted, the space will work as an eraser.
 
+-R to reset Canvas.
+
+-Keyboard arrows to move the pen.
+
+-C to enter paint mode(In this world you don't need to press space to paint or eraser).
 
 # Autor
 
