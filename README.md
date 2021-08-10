@@ -13,7 +13,6 @@ Map Editor was created in the 3 week of the code academy bootcamp. Where [Simple
 ![Painted Canvas ](https://github.com/BrPedro-dev/MapEditor/blob/main/images/canvas.png)
 
 # Technologies used 
-## Back end
 - Java 7
 - [Simple Graphics Library]( https://github.com/academia-de-codigo/simple-graphics)
 
